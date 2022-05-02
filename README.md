@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This purpose of this project is to use the Extract, Transform, Load (ETL) process to create a data pipeline in order to prepare clean data for a hackathon. We need to gather data from both Wikipedia and Kaggle, combine them, and save them into a SQL database so that the hackathon participants have a nice, clean dataset to use. 
+This purpose of this repository is to upload the deliverables for module 8 challenge. In this module, we learn to use the Extract, Transform, Load (ETL) process to create a data pipeline in order to prepare clean data for a hackathon. We need to collect the data, combine them, and load it into a SQL database. This will create clean data that can be analyzed.
 
 ## Deliverables for Module 8 Challenge
 - Write an ETL Function to Read Three Data Files
